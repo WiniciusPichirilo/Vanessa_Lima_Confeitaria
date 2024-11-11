@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Br.Confeitaria.Web.props" />
+</Project>

@@ -1,0 +1,183 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Br.Confeitaria.Web
+build_property.RootNamespace = Br.Confeitaria.Web
+build_property.ProjectDir = /Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Banners/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmFubmVycy9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Banners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmFubmVycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Candidaturas/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FuZGlkYXR1cmFzL0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Candidaturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FuZGlkYXR1cmFzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Clientes/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2xpZW50ZXMvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2xpZW50ZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTG9naW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Newslatter/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3c2xhdHRlci9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Newslatter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3c2xhdHRlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/NivelUsuario/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTml2ZWxVc3VhcmlvL0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/NivelUsuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTml2ZWxVc3VhcmlvL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Produto/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHV0by9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHV0by9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Relatorios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVsYXRvcmlvcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Sales/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2FsZXMvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Sales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2FsZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Suporte/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3Vwb3J0ZS9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Suporte/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3Vwb3J0ZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Tipo/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGlwby9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Tipo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGlwby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Usuarios/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXN1YXJpb3MvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXN1YXJpb3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Vagas/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmFnYXMvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/Vagas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmFnYXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Carreira/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FycmVpcmEvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Depoimentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwb2ltZW50b3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Equipe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Produto/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0by9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0by9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/Suporte/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3Vwb3J0ZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Cabral/Documents/Repository/Br.Confeitaria.Web/Br.Confeitaria.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
